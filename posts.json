@@ -2,6 +2,18 @@
 	
 	
   "featured" : [
+{
+"title" : "Title",
+"gen" : "action,drama",
+"date" : "2019",
+"cover" : "Horizontal",
+"image" : "Vertical",
+"length" : "2:35",
+"size" : "593 MB",
+"video" : "VideoLink",
+"vol" : "Description"
+}
+,
   {
 "title" : "Teacher Yua Mikami",
 "gen" : "japan,21+",
@@ -38,6 +50,15 @@ Awesome release, anything Yua touches becomes gold."}
 "tag" : "serie",
 "vol" : "MRTV-4 တွင်ထုတ်လွင့်ပြသခဲ့ပြီး အောင်မြင်မှုများရခဲ့တဲ့ ဇာတ်လမ်းတွဲတစ်ခုဖြစ်တဲ့ ''စိတ်၏ခြေရာ'' ဇာတ်လမ်းတွဲကို ပြန်လည်ကြည့်ရှုလိုသူများ နှင့် အမှတ်တရသိမ်းထားလိုသူများအတွက် ပြန်လည်တင်ဆက်ပေးလိုက်ပါတယ်။ အားလုံးပဲ ရှုစားအားပေးကြပါ အုံး.....
 သရုပ်ဆောင်: ကျော်ထက်ဇော်၊ဝင့်ယမုံနိုင်"}
-
+,
+{
+"title" : "Title",
+"status" : "Completed",
+"date" : "2019",
+"cover" : "Horizontal",
+"image" : "Vertical",
+"link" : "https://family-photo-72685.firebaseio.com/KyiMalSeries/allseries/sateeisayyar/",
+"vol" : "Description"
+}
 ]
 }
