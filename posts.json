@@ -4,6 +4,7 @@
   "featured" : [
 {
 "title" : "Title",
+"tag" : "movie",
 "gen" : "action,drama",
 "date" : "2019",
 "cover" : "Horizontal",
@@ -53,6 +54,7 @@ Awesome release, anything Yua touches becomes gold."}
 ,
 {
 "title" : "Title",
+"tag" : "serie",
 "status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
